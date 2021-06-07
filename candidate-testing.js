@@ -9,7 +9,7 @@ let question;
 let correctAnswer="(I put this here. AutoGrader is looking for Sally Ride)";
 let candidateAnswer;
 let questions;
-let correctAnswers=["(I put this here. AutoGrader is looking for Sally Ride)",'1','2','3','4'];
+let correctAnswers=["(I put this here. AutoGrader is looking for Sally Ride)",'1','2','3'];
 let candidateAnswers;
 
 
