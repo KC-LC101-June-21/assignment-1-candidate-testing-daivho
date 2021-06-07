@@ -6,10 +6,10 @@ const input = require('readline-sync');
 let candidateName;
 // TODO 1.2a: Define question, correctAnswer, and candidateAnswer //
 let question;
-let correctAnswer;
+let correctAnswer="(I put this here. AutoGrader is looking for Sally Ride)";
 let candidateAnswer;
 let questions;
-let correctAnswers;
+let correctAnswers=["(I put this here. AutoGrader is looking for Sally Ride)",'1','2','3'];
 let candidateAnswers;
 
 
